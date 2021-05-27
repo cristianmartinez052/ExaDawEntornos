@@ -196,5 +196,9 @@ public class Enteros {
 
         return resultado;
     }
+    public static void suma (int num1, int num2){
+       int  suma = num1+num2;
+       System.out.println("El resultado de la suma es: " + suma);
+   }
 
 }
